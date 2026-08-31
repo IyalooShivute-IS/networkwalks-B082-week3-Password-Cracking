@@ -8,7 +8,7 @@ Password Cracking with JTR and Networkwalks Tools
 | :--- | :--- |
 | **Intern Name** | **Iyaloo Shivute** |
 | **Program** | Cybersecurity Training at Networkwalks Academy |
-| **Modules** | W3-PM1 | W3-PM2 |
+| **Modules** | W3-PM1 & W3-PM2 |
 
 </div>
 
