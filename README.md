@@ -1,5 +1,5 @@
 # networkwalks-B082-week3-Password-Cracking
-Password Cracking with JTR and Networkwalks Tools
+
 # Password Cracking with John the Ripper and Networkwalks Tools
 
 <div align="center">
