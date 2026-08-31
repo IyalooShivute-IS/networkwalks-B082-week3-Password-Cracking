@@ -1,6 +1,6 @@
 # networkwalks-B082-week3-Password-Cracking
 Password Cracking with JTR and Networkwalks Tools
-# Networkwalks W3 - Password Cracking with John the Ripper, Johnny, Networkwalks Tools & HexStrike MCP
+# Password Cracking with John the Ripper and Networkwalks Tools
 
 <div align="center">
 
