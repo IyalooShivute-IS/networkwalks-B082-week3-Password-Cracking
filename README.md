@@ -6,7 +6,7 @@
 
 | **Batch** | **B082** |
 | :--- | :--- |
-| **Intern Name** | **Iyaloo Shivute** |
+| **Name** | **Iyaloo Shivute** |
 | **Program** | Cybersecurity Training at Networkwalks Academy |
 | **Modules** | W3-PM1 & W3-PM2 |
 
