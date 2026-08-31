@@ -6,10 +6,9 @@ Password Cracking with JTR and Networkwalks Tools
 
 | **Batch** | **B082** |
 | :--- | :--- |
-| **Intern Name** | **Jenik Shrestha** |
+| **Intern Name** | **Iyaloo Shivute** |
 | **Program** | Cybersecurity Training at Networkwalks Academy |
-| **Date** | 27 August 2026 |
-| **Modules** | W3-PM1 | W3-PM2 | W3-PM-FINAL | Penetration Testing Hospital
+| **Modules** | W3-PM1 | W3-PM2 |
 
 </div>
 
