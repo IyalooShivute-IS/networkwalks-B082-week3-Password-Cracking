@@ -63,14 +63,11 @@ I downloaded John the Ripper from the official website on my windows PC as per t
 
 ### Module 2 (W3-PM2): Networkwalks Tools
 
-**Task 1:**  Download the encrypted PDF file (My Locked PDF1.pdf) to your laptop from the lab page:
-https://networkwalks.com/project-task-lab-password-cracking-with-networkwalks-tools/
-**Task 2:**  Open the Networkwalks Hash Calculator in your web browser:
-https://networkwalks.com/hash-calculator/
+**Task 1:**  Download the encrypted PDF file (My Locked PDF1.pdf) to your laptop from the lab page: https://networkwalks.com/project-task-lab-password-cracking-with-networkwalks-tools/
+**Task 2:**  Open the Networkwalks Hash Calculator in your web browser:  https://networkwalks.com/hash-calculator/
 **Task 3:**  Upload the locked PDF file to the Hash Calculator. The tool will read the file and give you the hash value that starts with $pdf$...
 **Task 4:**  Copy the full hash value.
-**Task 5:**  Open the Networkwalks Password Cracker in your web browser:
-https://networkwalks.com/password-cracker/
+**Task 5:**  Open the Networkwalks Password Cracker in your web browser:  https://networkwalks.com/password-cracker/
 **Task 6:**  Paste the hash value into the Password Cracker and start the attack. The tool will try different passwords until it finds a match.
 **Task 7:**  Wait for the tool to finish. The cracked password will be shown on the screen.
 **Task 8:**  Open the locked PDF file and enter the cracked password
