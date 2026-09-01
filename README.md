@@ -40,9 +40,7 @@ This project covers **five password cracking / penetration testing modules** com
 | :--- | :--- | :--- |
 | **W3-PM1** | Password Cracking with JTR | JTR John (Terminal) + Johnny (GUI) |
 | **W3-PM2** | Password Cracking with Networkwalks Tools | Hash Calculator + Password Cracker (Online) |
-| **W3-PM-FINAL (Part 1)** | HexStrike MCP Server Setup | Claude Desktop + HexStrike MCP |
-| **W3-PM-FINAL (Part 2)** | AI-Assisted Password Cracking | HexStrike MCP + Claude Desktop + JTR |
-| **Module 5** | Hospital Penetration Testing (Live Target) | Hydra + Tor + Python + Networkwalks Tools |
+
 
 ### Project Objective
 
@@ -108,11 +106,10 @@ The main objective of this project was to:
 
 | File | Source | Status |
 | :--- | :--- | :--- |
-| My Locked PDF1.pdf | Main lab target | ✅ Cracked |
-| My Locked PDF2.pdf | Trainer provided | ✅ Cracked |
-| My Locked PDF3.pdf | Trainer provided | ✅ Cracked |
-| networkwalks_flag1.pdf | AI Module target | ✅ Cracked |
-| medirozahospital.com (Patient Portal) | Live authorised target | ✅ Credentials Cracked |
+| My Locked PDF1.pdf | Main lab target |  Password successfully cracked ✅|
+| My Locked PDF2.pdf | Trainer provided | Password successfully cracked ✅|
+| My Locked PDF3.pdf | Trainer provided | Password successfully cracked ✅ |
+
 
 ---
 
