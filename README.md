@@ -91,6 +91,15 @@ The passwords were cracked and used to open the locked PDF files as per the belo
 <img width="940" height="419" alt="image" src="https://github.com/user-attachments/assets/f11bb0d1-d465-4546-90e6-fc996a47152a" /><br><br>
 
 
+## 👤 Author
 
-# -THE END-
+**Iyaloo Shivute**    
+Cybersecurity Intern B082
+
+LinkedIn:  www.linkedin.com/in/iyaloo-shivute
+
+## 📌 Project Information
+**Program Name**: Cybersecurity at Networkwalks | **Week**: 03 | **Project**: Password Cracking | **Repository**: GitHub
+
+
 
