@@ -65,103 +65,15 @@ I downloaded John the Ripper from the official website on my windows PC as per t
 
 **Task 1:**  Download the encrypted PDF file (My Locked PDF1.pdf) to your laptop from the lab page: https://networkwalks.com/project-task-lab-password-cracking-with-networkwalks-tools/ <br> <br>
 **Task 2:**  Open the Networkwalks Hash Calculator in your web browser:  https://networkwalks.com/hash-calculator/ <br> <br>
-**Task 3:**  Upload the locked PDF file to the Hash Calculator. The tool will read the file and give you the hash value that starts with $pdf$...
-
-**Task 4:**  Copy the full hash value.
-
+**Task 3:**  Upload the locked PDF file to the Hash Calculator. The tool will read the file and give you the hash value that starts with $pdf$...<br> <br>
+**Task 4:**  Copy the full hash value.<br> <br>
 **Task 5:**  Open the Networkwalks Password Cracker in your web browser:  https://networkwalks.com/password-cracker/<br> <br>
-**Task 6:**  Paste the hash value into the Password Cracker and start the attack. The tool will try different passwords until it finds a match.
+**Task 6:**  Paste the hash value into the Password Cracker and start the attack. The tool will try different passwords until it finds a match.<br> <br>
+**Task 7:**  Wait for the tool to finish. The cracked password will be shown on the screen.<br> <br>
+**Task 8:**  Open the locked PDF file and enter the cracked password. <br> <br>
 
-**Task 7:**  Wait for the tool to finish. The cracked password will be shown on the screen.
+**_The detailed step-by-step of all tasks performed are attached in this repository Week 3 Report: Password Cracking_**. 
 
-**Task 8:**  Open the locked PDF file and enter the cracked password
-
-The detailed step-by-step of all tasks performed are attached in this repository **Week 3 Report: Password Cracking**. 
-
-Crack the password of `My Locked PDF1.pdf` using **JTR John (Terminal)** and **Johnny (GUI)**.
-
-### Lab Manual Reference
-
-This module is based on the lab manual: **W3-PM1 - Week3 - Project Module1 - Password Cracking with JTR v1.pdf**
-
----
-
-### Step 1: Locate the Target PDF File
-
-The target file `My Locked PDF1.pdf` was located in the Downloads folder.
-
-```bash
-ls -la ~/Downloads/My\ Locked\ PDF1.pdf
-'''
-
-<img width="553" height="205" alt="Screenshot from 2026-08-27 18-58-18" src="https://github.com/user-attachments/assets/b2cdaa00-62dc-4e32-8d9e-9baecbb9f288" />
-
-
-**Figure 1:** Target PDF file in Downloads folder.
-
----
-
-### Step 2: Extract the Hash
-
-The hash was extracted using `pdf2john.pl`:
-
-```bash
-perl /usr/share/john/pdf2john.pl "My Locked PDF1.pdf" > hash1.txt
-```
-
-**Alternative Method:**
-```bash
-pdf2john "My Locked PDF1.pdf" > hash1.txt
-```
-
-<img width="842" height="668" alt="john1" src="https://github.com/user-attachments/assets/82bd612c-b3cc-4805-89cc-26000fb707d1" />
-
-
-**Figure 2:** Hash extraction using pdf2john.pl.
-
----
-
-### Step 3: View the Extracted Hash
-
-```bash
-cat hash1.txt
-```
-
-**Output:**
-```
-My Locked PDF1.pdf:$pdf$4*4*128*-1028*1*16*ca7f72f11459cba469f1005a8765ed51*32*f32d8fa1bfbe2648226dffc39f7909ea0021446990b9e4114071a4d9104984c1*32*9322f50c29569712067a775264635e4954ccb1b99e209d664984054ffad30a6a
-```
-
-<img width="1243" height="100" alt="hash of john" src="https://github.com/user-attachments/assets/baa28d9d-e15e-402b-82a1-0257cd3e5dda" />
-
-
-**Figure 3:** Extracted hash displayed.
-
----
-
-### Step 4: Crack with John the Ripper
-
-```bash
-john --wordlist=/usr/share/wordlists/rockyou.txt hash1.txt
-```
-
-**Output:**
-```
-Using default input encoding: UTF-8
-Loaded 1 password hash (PDF [MD5 SHA2 RC4/AES 32/64])
-Cost 1 (revision) is 4 for all loaded hashes
-Will run 4 OpenMP threads
-Press 'q' or Ctrl-C to abort, almost any other key for status
-good-luck        (My Locked PDF1.pdf)
-1g 0:00:00:10 DONE (2026-08-26 22:34) 0.09775g/s 91939p/s 91939c/s 91939C/s goodgirl19..gonzales23
-Use the "--show --format=PDF" options to display all of the cracked passwords reliably
-Session completed.
-```
-<img width="365" height="112" alt="pdf 1 password crack" src="https://github.com/user-attachments/assets/8e4d7cf9-c341-4df6-9589-6d9af0c86a05" />
-
-**Figure 4:** John the Ripper cracking the password.
-
----
 
 ### Step 5: Display the Cracked Password
 
