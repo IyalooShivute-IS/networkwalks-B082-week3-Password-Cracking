@@ -68,10 +68,12 @@ I downloaded John the Ripper from the official website on my windows PC as per t
 **Task 3:**  Upload the locked PDF file to the Hash Calculator. The tool will read the file and give you the hash value that starts with $pdf$...
 
 **Task 4:**  Copy the full hash value.
-**Task 5:**  Open the Networkwalks Password Cracker in your web browser:  https://networkwalks.com/password-cracker/<br> <br>
 
+**Task 5:**  Open the Networkwalks Password Cracker in your web browser:  https://networkwalks.com/password-cracker/<br> <br>
 **Task 6:**  Paste the hash value into the Password Cracker and start the attack. The tool will try different passwords until it finds a match.
+
 **Task 7:**  Wait for the tool to finish. The cracked password will be shown on the screen.
+
 **Task 8:**  Open the locked PDF file and enter the cracked password
 
 The detailed step-by-step of all tasks performed are attached in this repository **Week 3 Report: Password Cracking**. 
