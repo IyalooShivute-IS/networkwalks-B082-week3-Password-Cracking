@@ -70,12 +70,12 @@ The modules completed and tools utilized are listed in the table below:
 
 **_The detailed Step-by-Step report of Week 3: Password Cracking is hereto attached_**. 
 
-## 📌 7. Conclusion
+## 📌 6. Conclusion
 
 This lab helped me understand how password cracking works step by step and why it is important to use strong passwords for protection.  I also learned that if a password is short or common, it can be found quickly, which proves the need for strong passwords.
 
 
-## 📌 6. Evidences
+## 📌 7. Evidences
 
 The passwords were cracked and used to open the locked PDF files as per the below screen shots.
 ### _My Locked PDF1 password cracked as:  good-luck_
