@@ -12,29 +12,21 @@
 
 </div>
 
----
+## 📌1. Introduction
+This report covers two modules,  the first module covers password cracking with John the Ripper (JTR) (W3-PM1), while the second module covers password cracking with Networkwalks tools (W3-PM2).
 
-## 📌 Table of Contents
+Many files like PDF, ZIP, and Office documents can be locked with a password. When a file is locked, its password is stored in the form of a hash. A hash is a scrambled value that represents the password. To recover the password, we first take out this hash from the file and then run it through a cracking tool that tries different words until it finds a match.
 
-1. [Project Overview](#-project-overview)
-2. [Background](#-background)
-3. [Tools Used](#-tools-used)
-4. [Target Files](#-target-files)
-5. [Module 1: JTR John + Johnny (W3-PM1)](#-module-1-jtr-john--johnny-w3-pm1)
-6. [Module 2: Networkwalks Tools (W3-PM2)](#-module-2-networkwalks-tools-w3-pm2)
-7. [Module 3: HexStrike MCP Server Setup](#-module-3-hexstrike-mcp-server-setup)
-8. [Module 4: AI-Assisted Password Cracking (W3-PM-FINAL)](#-module-4-ai-assisted-password-cracking-w3-pm-final)
-9. [Module 5: Hospital Penetration Testing (Live Target)](#-module-5-hospital-penetration-testing-live-target)
-10. [Summary of Results](#-summary-of-results)
-11. [Flags Captured](#-flags-captured)
-12. [Key Learnings](#-key-learnings)
-13. [Conclusion](#-conclusion)
+In this lab tasks (W3-PM1) I used JTR John and JTR Johnny to recover the passwords of the protected PDF files. I also used two free online tools made by Networkwalks, namely, the Hash Calculator and Password Cracker. First used the Hash Calculator to take the hash out of the locked PDF files. Then i used the Password Cracker to find the real password from the hash. 
 
----
+## 📌 2. Definitions and background
 
-## 📌 Project Overview
+Password cracking is the process of recovering a password from stored data or a protected file. Security professionals use it to test how strong a password is and to show why weak passwords are risky. 
 
-This project covers **five password cracking / penetration testing modules** completed during **Week 3** of the Cybersecurity Training program at **Networkwalks Academy**.
+John the Ripper (JTR) is a popular password cracking tool used by security professionals to test how strong passwords are. It started as a tool for Unix systems but now works on Windows, Linux, and Mac. It can check many types of password hashes and also unlock password protected files like PDF, ZIP, and Office documents.
+
+Johnny is the graphical version of John the Ripper. It gives a simple point and click screen, so beginners can use JTR without typing long commands. Both tools are widely used in security testing and learning labs to understand password safety.
+
 
 | Module | Title | Tool/Method |
 | :--- | :--- | :--- |
