@@ -82,28 +82,18 @@ The passwords were cracked and used to open the locked PDF files as per the belo
 <img width="809" height="636" alt="image" src="https://github.com/user-attachments/assets/c000956d-9b24-4780-8efe-3b47c0a3b232" />
 <img width="940" height="573" alt="image" src="https://github.com/user-attachments/assets/7adee491-f72a-4f0a-8c5d-7f9149233f3e" />
 
-My Locked PDF1 password cracked as:  good-luck
+### _My Locked PDF1 password cracked as:  good-luck_
 
 <img width="809" height="553" alt="image" src="https://github.com/user-attachments/assets/e481cb1c-fc5a-4729-8bb1-dcc6cae483d5" />
 <img width="940" height="567" alt="image" src="https://github.com/user-attachments/assets/36f2ba1a-a9c9-4dee-8321-3de9125f602f" />
 
-My Locked PDF2 password cracked as: password1
+### _My Locked PDF2 password cracked as: password1_
 
 <img width="781" height="597" alt="image" src="https://github.com/user-attachments/assets/bb6bd5bb-9146-4de6-a636-cccfca21fc67" />
 <img width="940" height="419" alt="image" src="https://github.com/user-attachments/assets/f11bb0d1-d465-4546-90e6-fc996a47152a" />
 
-My Locked PDF3 password cracked as:  1qaz2wsx
+### _My Locked PDF3 password cracked as:  1qaz2wsx_
 
 
-# -End-
+# -THE END-
 
-## 👤 Author
-
-**Jenik Shrestha**  
-Cybersecurity Trainee | B082  
-Networkwalks Academy  
-*www.linkedin.com/in/jenikshrestha*
-
-
-🙏 Acknowledgements
-Special thanks to Waqas Karim (CCIE), NETWORKWALKS, for his invaluable mentorship and guidance throughout this
