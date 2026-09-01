@@ -68,7 +68,7 @@ The modules completed and tools utilized are listed in the table below:
 **Task 7:**  Wait for the tool to finish. The cracked password will be shown on the screen.<br> <br>
 **Task 8:**  Open the locked PDF file and enter the cracked password. <br> <br>
 
-**_The detailed step-by-step of all tasks performed are attached in this repository Week 3 Report: Password Cracking_**. 
+**_The detailed Step-by-Step report of Week 3: Password Cracking is hereto attached_**. 
 
 ## 📌 7. Conclusion
 
