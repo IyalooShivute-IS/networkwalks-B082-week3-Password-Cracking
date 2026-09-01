@@ -12,7 +12,7 @@
 
 </div>
 
-## 📌1. Introduction
+## 📌 1. Introduction
 This report covers two modules,  the first module covers password cracking with John the Ripper (JTR) (W3-PM1), while the second module covers password cracking with Networkwalks tools (W3-PM2).
 
 Many files like PDF, ZIP, and Office documents can be locked with a password. When a file is locked, its password is stored in the form of a hash. A hash is a scrambled value that represents the password. To recover the password, we first take out this hash from the file and then run it through a cracking tool that tries different words until it finds a match.
