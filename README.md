@@ -27,21 +27,13 @@ In this lab tasks (W3-PM1) I used JTR John and JTR Johnny to recover the passwor
 
 **Johnny** is the graphical version of John the Ripper. It gives a simple point and click screen, so beginners can use JTR without typing long commands. Both tools are widely used in security testing and learning labs to understand password safety.
 
-
-| Module | Title | Tool/Method |
-| :--- | :--- | :--- |
-| **W3-PM1** | Password Cracking with JTR | JTR John (Terminal) + Johnny (GUI) |
-| **W3-PM2** | Password Cracking with Networkwalks Tools | Hash Calculator + Password Cracker (Online) |
-
-
 ## 📌 3. Modules completed & Tools utilized
 
 The modules completed and tools utilized are listed in the table below:
 
 | Modules completed| Tools/resources |
 | :--- | :--- |
-| **W3-PM1** | John the Ripper (JTR) (Terminal) & Johnny (GUI) 
-JTR_default_password.txt, Online HashCrack, Notepad, Windows 11 Laptop |
+| **W3-PM1** | John the Ripper (JTR) (Terminal) & Johnny (GUI) JTR_default_password.txt, Online HashCrack, Notepad, Windows 11 Laptop |
 | **W3-PM1** | Online Networkwalks Hash Calculator & Password Cracker, Notepad, Windows 11 Laptop |
 
 ---
