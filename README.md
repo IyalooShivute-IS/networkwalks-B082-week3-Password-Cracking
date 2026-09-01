@@ -47,10 +47,6 @@ The modules completed and tools utilized are listed in the table below:
 | My Locked PDF3.pdf | Provided by the Instructor | Password successfully cracked ✅ |
 
 ---
-5. Activities Performed
-STEP 1 
-I downloaded John the Ripper from the official website on my windows PC as per the below screenshots.
-
 
 
 ## 📌 5. Activities Performed 
@@ -58,7 +54,9 @@ I downloaded John the Ripper from the official website on my windows PC as per t
 ### Module 1 (W3-PM1): JTR John (CLI) + Johnny (GUI)
 
 **Task 1:**  Download and setup John the Ripper from official website on your windows PC.
+
 **Task 2:**  Download Johnny and install GUI from official website.
+
 **Task 3:**  Cracking the passwords following various steps.
 
 ### Module 2 (W3-PM2): Networkwalks Tools
