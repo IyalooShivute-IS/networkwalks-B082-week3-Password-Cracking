@@ -53,11 +53,9 @@ The modules completed and tools utilized are listed in the table below:
 
 ### Module 1 (W3-PM1): JTR John (CLI) + Johnny (GUI)
 
-**Task 1:**  Download and setup John the Ripper from official website on your windows PC.
-
-**Task 2:**  Download Johnny and install GUI from official website.
-
-**Task 3:**  Cracking the passwords following various steps.
+**Task 1:**  Download and setup John the Ripper from official website on your windows PC. <br> <br>
+**Task 2:**  Download Johnny and install GUI from official website. <br> <br>
+**Task 3:**  Cracking the passwords following various steps.  <br> <br>
 
 ### Module 2 (W3-PM2): Networkwalks Tools
 
@@ -73,7 +71,7 @@ The modules completed and tools utilized are listed in the table below:
 **_The detailed step-by-step of all tasks performed are attached in this repository Week 3 Report: Password Cracking_**. 
 
 
-### Step 5: Display the Cracked Password
+## 📌 6. Evidences
 
 ```bash
 john --show hash1.txt
