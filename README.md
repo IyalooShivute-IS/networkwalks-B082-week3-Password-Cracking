@@ -91,6 +91,18 @@ The passwords were cracked and used to open the locked PDF files as per the belo
 <img width="940" height="419" alt="image" src="https://github.com/user-attachments/assets/f11bb0d1-d465-4546-90e6-fc996a47152a" /><br><br>
 
 
+ 
+### Opened “My Locked PDF1”
+<img width="940" height="701" alt="image" src="https://github.com/user-attachments/assets/17d953b6-d39c-45ff-82a2-b1832cb3291f" />
+
+### Opened “My Locked PDF2”
+<img width="893" height="694" alt="image" src="https://github.com/user-attachments/assets/bbe5e2ce-d48c-46cc-bea5-400c306a0216" />
+
+### Opened “My Locked PDF3”
+<img width="906" height="568" alt="image" src="https://github.com/user-attachments/assets/d887b513-ffbb-4e0a-952a-2e00da7ac6b1" />
+
+
+
 ## 👤 Author
 
 **Iyaloo Shivute**    
