@@ -21,11 +21,11 @@ In this lab tasks (W3-PM1) I used JTR John and JTR Johnny to recover the passwor
 
 ## 📌 2. Definitions and background
 
-Password cracking is the process of recovering a password from stored data or a protected file. Security professionals use it to test how strong a password is and to show why weak passwords are risky. 
+**Password** cracking is the process of recovering a password from stored data or a protected file. Security professionals use it to test how strong a password is and to show why weak passwords are risky. 
 
-John the Ripper (JTR) is a popular password cracking tool used by security professionals to test how strong passwords are. It started as a tool for Unix systems but now works on Windows, Linux, and Mac. It can check many types of password hashes and also unlock password protected files like PDF, ZIP, and Office documents.
+**John the Ripper (JTR)** is a popular password cracking tool used by security professionals to test how strong passwords are. It started as a tool for Unix systems but now works on Windows, Linux, and Mac. It can check many types of password hashes and also unlock password protected files like PDF, ZIP, and Office documents.
 
-Johnny is the graphical version of John the Ripper. It gives a simple point and click screen, so beginners can use JTR without typing long commands. Both tools are widely used in security testing and learning labs to understand password safety.
+**Johnny** is the graphical version of John the Ripper. It gives a simple point and click screen, so beginners can use JTR without typing long commands. Both tools are widely used in security testing and learning labs to understand password safety.
 
 
 | Module | Title | Tool/Method |
@@ -34,63 +34,15 @@ Johnny is the graphical version of John the Ripper. It gives a simple point and 
 | **W3-PM2** | Password Cracking with Networkwalks Tools | Hash Calculator + Password Cracker (Online) |
 
 
-### Project Objective
+## 📌 3. Modules completed & Tools utilized
 
-The main objective of this project was to:
+The modules completed and tools utilized are listed in the table below:
 
-1. Learn how password cracking works in real-world scenarios
-2. Understand different password cracking tools and methods
-3. Crack passwords of protected PDF files using various techniques
-4. Understand why strong passwords are essential for security
-5. Learn how to set up AI-powered MCP servers for cybersecurity automation
-6. Understand how AI can assist in password cracking tasks
-7. **Apply these skills to a live, authorised target** – cracking the patient portal credentials of `medirozahospital.com`
-
----
-
-## 📌 Background
-
-### What is John the Ripper (JTR)?
-
-**John the Ripper (JTR)** is a popular password cracking tool used by security professionals to test how strong passwords are. It started as a tool for Unix systems but now works on Windows, Linux, and Mac. It can check many types of password hashes and also unlock password protected files like PDF, ZIP, and Office documents.
-
-### What is Johnny?
-
-**Johnny** is the graphical version of John the Ripper. It gives a simple point and click screen, so beginners can use JTR without typing long commands. Both tools are widely used in security testing and learning labs to understand password safety.
-
-### What are Networkwalks Tools?
-
-**Networkwalks Tools** are free online tools that allow users to extract crackable hashes from PDF files and perform dictionary attacks directly in a web browser without installing anything.
-
-### What is HexStrike MCP?
-
-**HexStrike MCP** is an AI-powered MCP (Model Context Protocol) server that integrates with Claude Desktop to automate cybersecurity tasks like password cracking.
-
-### What is Claude Desktop?
-
-**Claude Desktop** is an AI assistant interface that can communicate with MCP servers like HexStrike to perform automated security tasks.
-
----
-
-## 📌 Tools Used
-
-| Tool | Purpose |
+| Modules completed| Tools/resources |
 | :--- | :--- |
-| **Kali Linux** | Operating system used for all activities |
-| **John the Ripper (JTR)** | Terminal-based password cracking tool |
-| **Johnny** | Graphical user interface for JTR |
-| **pdf2john.pl / pdf2john** | Extract crackable hashes from PDF files |
-| **rockyou.txt** | Default wordlist in Kali Linux (14+ million passwords) |
-| **JTR_default_password.txt** | Custom wordlist provided by trainer (3,546 words) |
-| **Networkwalks Hash Calculator** | Online tool to extract PDF hashes |
-| **Networkwalks Password Cracker** | Online tool for dictionary attacks |
-| **HexStrike MCP Server** | AI-powered MCP server |
-| **Claude Desktop** | AI assistant interface |
-| **PDF Viewer** | To verify cracked passwords |
-| **Hydra** | Network login brute‑forcer (attempted) |
-| **Tor** | IP anonymisation & rate‑limit bypass |
-| **Custom Python Script** | Smart brute‑forcer with challenge handling |
-| **curl** | Manual HTTP request verification |
+| **W3-PM1** | John the Ripper (JTR) (Terminal) & Johnny (GUI) 
+JTR_default_password.txt, Online HashCrack, Notepad, Windows 11 Laptop |
+| **W3-PM1** | Online Networkwalks Hash Calculator & Password Cracker, Notepad, Windows 11 Laptop |
 
 ---
 
