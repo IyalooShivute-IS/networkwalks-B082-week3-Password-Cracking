@@ -38,20 +38,44 @@ The modules completed and tools utilized are listed in the table below:
 
 ---
 
-## 📌 Target Files
+## 📌 4. Target Files
 
 | File | Source | Status |
 | :--- | :--- | :--- |
-| My Locked PDF1.pdf | Main lab target |  Password successfully cracked ✅|
-| My Locked PDF2.pdf | Trainer provided | Password successfully cracked ✅|
-| My Locked PDF3.pdf | Trainer provided | Password successfully cracked ✅ |
-
+| My Locked PDF1.pdf | Provided by the Instructor | Password successfully cracked ✅|
+| My Locked PDF2.pdf | Provided by the Instructor | Password successfully cracked ✅ |
+| My Locked PDF3.pdf | Provided by the Instructor | Password successfully cracked ✅ |
 
 ---
+5. Activities Performed
+STEP 1 
+I downloaded John the Ripper from the official website on my windows PC as per the below screenshots.
 
-## 📌 Module 1: JTR John + Johnny (W3-PM1)
 
-### Task
+
+## 📌 5. Activities Performed 
+
+### Module 1 (W3-PM1): JTR John (CLI) + Johnny (GUI)
+
+**Task 1:**  Download and setup John the Ripper from official website on your windows PC.
+**Task 2:**  Download Johnny and install GUI from official website.
+**Task 3:**  Cracking the passwords following various steps.
+
+### Module 2 (W3-PM2): Networkwalks Tools
+
+**Task 1:**  Download the encrypted PDF file (My Locked PDF1.pdf) to your laptop from the lab page:
+https://networkwalks.com/project-task-lab-password-cracking-with-networkwalks-tools/
+**Task 2:**  Open the Networkwalks Hash Calculator in your web browser:
+https://networkwalks.com/hash-calculator/
+**Task 3:**  Upload the locked PDF file to the Hash Calculator. The tool will read the file and give you the hash value that starts with $pdf$...
+**Task 4:**  Copy the full hash value.
+**Task 5:**  Open the Networkwalks Password Cracker in your web browser:
+https://networkwalks.com/password-cracker/
+**Task 6:**  Paste the hash value into the Password Cracker and start the attack. The tool will try different passwords until it finds a match.
+**Task 7:**  Wait for the tool to finish. The cracked password will be shown on the screen.
+**Task 8:**  Open the locked PDF file and enter the cracked password
+
+The detailed step-by-step of all tasks performed are attached in this repository **Week 3 Report: Password Cracking**. 
 
 Crack the password of `My Locked PDF1.pdf` using **JTR John (Terminal)** and **Johnny (GUI)**.
 
